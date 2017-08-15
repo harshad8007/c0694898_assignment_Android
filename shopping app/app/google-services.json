@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "53499209575",
+    "firebase_url": "https://shopping-app-904df.firebaseio.com",
+    "project_id": "shopping-app-904df",
+    "storage_bucket": "shopping-app-904df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53499209575:android:dd7742cb9e3dc55a",
+        "android_client_info": {
+          "package_name": "com.ub.harshad.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53499209575-ggvq3djkoq9abhae6jgeqqmo0hdfhiat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR69qXi4Ae9Bede-6uQnwvBMBKpekqzpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
